@@ -8,3 +8,9 @@
 michael-castle/michael-castle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Other profiles:
+kaggle: https://www.kaggle.com/michaelcastle
+linkedin: https://www.linkedin.com/in/castlem/
+google scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=AxhliIEAAAAJ
+researchgate: https://www.researchgate.net/profile/Michael-Castle
