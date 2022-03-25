@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Other profiles:
-kaggle: https://www.kaggle.com/michaelcastle
-linkedin: https://www.linkedin.com/in/castlem/
-google scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=AxhliIEAAAAJ
-researchgate: https://www.researchgate.net/profile/Michael-Castle
+- Kaggle: https://www.kaggle.com/michaelcastle
+- LinkedIn: https://www.linkedin.com/in/castlem/
+- Google Scholar: https://scholar.google.com/citations?hl=en&authuser=1&user=AxhliIEAAAAJ
+- ResearchGate: https://www.researchgate.net/profile/Michael-Castle
