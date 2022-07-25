@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data science, machine learning, and mathematical modelling.
 - 🌱 I’m currently learning ... Data science and coding.
 - 💞️ I’m looking to collaborate on ... Nothing right now, but am happy to be contacted.
-- 📫 How to reach me ... email: castlemichael95@gmail.com
+- 📫 How to reach me ... email: michael.jack.castle@gmail.com
 
 <!---
 michael-castle/michael-castle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
